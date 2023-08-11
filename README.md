@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm wav-blue 👋
 
 <!--
 **wav-blue/wav-blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
