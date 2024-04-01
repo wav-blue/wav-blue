@@ -50,6 +50,11 @@
 
 ## 토이 프로젝트
 
+#### 암호화, 복호화 사이트
+
+- 클라이언트: HTML, CSS, Javascript
+- 주소: https://github.com/wav-blue/cipher-vigenere-encoder
+
 #### 카페 리뷰 공유 사이트
 
 - 서버: Java, Spring boot
@@ -60,7 +65,7 @@
 
 - 서버: Typescript, Nest.js
 - 클라이언트: Javascript, React, Styled components
-- AI: Python, Flask
+- 분석 서버: Python, Flask
 - 주소: https://github.com/wav-blue/diary_report
 
 ## 팀 프로젝트
