@@ -28,7 +28,7 @@
 
 <h3>CLIENT</h3>
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 
@@ -42,7 +42,7 @@
 
 
 <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&style=for-the-badge&logoColor=white"/>
- <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white">
+ <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
 
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 
@@ -56,17 +56,18 @@
 
 #### 암호화, 복호화 사이트
 
-- 클라이언트: HTML, CSS, Javascript
+- 스택: HTML, CSS, Javascript
 - 주소: https://github.com/wav-blue/cipher-vigenere-encoder
 
 #### 카페 리뷰 공유 사이트
 
-- 서버: Java, Spring boot, JSP
-- 클라이언트: Thymeleaf, Bootstrap
+- 서버 사이드 렌더링
+- 스택: Java, Spring boot, JSP, Thymeleaf, Bootstrap
 - 주소: https://github.com/wav-blue/cafe-review
 
 #### 일기 요약 서비스
 
+- 클라이언트 사이드 렌더링
 - 서버: Typescript, Nest.js
 - 클라이언트: Javascript, React, Styled components
 - 분석 서버: Python, Flask
