@@ -4,7 +4,7 @@
 
 🖋️ 배우려는 자세로
 
-좋은 코드를 고민하는 개발자를 지향하고 있습니다.
+좋은 코드를 고민하고 있습니다.
 
 <br/>
 
@@ -52,40 +52,3 @@
 
 <br/>
 
-## 토이 프로젝트
-
-#### 암호화, 복호화 사이트
-
-- 스택: HTML, CSS, Javascript
-- 주소: https://github.com/wav-blue/cipher-vigenere-encoder
-
-#### 카페 리뷰 공유 사이트
-
-- 서버 사이드 렌더링
-- 스택: Java, Spring boot, JSP, Thymeleaf, Bootstrap
-- 주소: https://github.com/wav-blue/cafe-review
-
-#### 일기 요약 서비스
-
-- 클라이언트 사이드 렌더링
-- 서버: Typescript, Nest.js
-- 클라이언트: Javascript, React, Styled components
-- 분석 서버: Python, Flask
-- 주소: https://github.com/wav-blue/diary_report
-
-## 팀 프로젝트
-
-#### 탄소 친환경 쇼핑몰
-
-- 역할: Back-end, 데이터 분석
-- 스택: Javascript, MySQL
-- 주소: https://github.com/wav-blue/gleanbanana
-
-#### 연애 상담 웹 서비스
-
-- 역할: Back-end, AI 모델 파인튜닝
-- 스택: Typescript, typeORM, Flask
-- 주소: https://github.com/wav-blue/ai-project
-
-<br/>
-<br/>
